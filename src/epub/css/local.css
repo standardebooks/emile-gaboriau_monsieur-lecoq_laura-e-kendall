@@ -20,3 +20,8 @@ figcaption{
 	font-style: italic;
 	font-size: .75em;
 }
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
