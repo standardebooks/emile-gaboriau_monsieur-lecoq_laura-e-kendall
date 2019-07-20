@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lacoq</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -27,8 +27,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">Monsieur Lacoq</dc:title>
-		<meta property="file-as" refines="#title">Monsieur Lacoq</meta>
+		<dc:title id="title">Monsieur Lecoq</dc:title>
+		<meta property="file-as" refines="#title">Monsieur Lecoq</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
 		<dc:subject id="subject-2">French fiction -- Translations into English</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
@@ -37,25 +37,27 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">Monsieur Lacoq’s first case.</dc:description>
+		<dc:description id="description">Monsieur Lecoq’s first case in which he tries to determine the identity of a man in custody for three murders.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;This is a placeholder long description&lt;/p&gt;
+			&lt;p&gt;The third Lecoq novel goes back to the beginning, to Monsieur Lecoq’s first case, the case that began his reputation as a master of detection, master of disguise, and master of detail. The case begins simply: Lecoq and several other policemen come upon a crime as it’s being committed. Three men are dead and the killer is in custody. But who is he? Lecoq and his companion officer spend months trying to figure it out, to no avail. Lecoq finally goes to visit his old mentor in order to gain some insight.&lt;/p&gt;
+			&lt;p&gt;The scene then changes to some fifty years previous; in the aftermath of Waterloo, some noblemen return from exile. One of them insults the character of a local who has acted honorably on the nobleman’s behalf, and the remainder of the novel is devoted to how those few minutes end up unravelling the lives of everyone present, and many who aren’t.&lt;/p&gt;
+			&lt;p&gt;Gaboriau again demonstrates his ability to mix detective mystery and Dickensian drama, and foreshadows the style of the first two novels of his more famous English cousin in detection.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4071</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/emile-gaboriau_monsieur-lacoq</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/emile-gaboriau_monsieur-lecoq</meta>
 		<dc:creator id="author">Emile Gaboriau</dc:creator>
 		<meta property="file-as" refines="#author">Gaboriau, Emile</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Emile_Gaboriau</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no98072052</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Camille Pissarro</dc:contributor>
+		<meta property="file-as" refines="#artist">Pissarro, Camille</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Camille_Pissarro</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50010995</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Moynihan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Moynihan, David</meta>
@@ -80,7 +82,7 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
-		<item href="images/chapter-1-5-crimescene.jpg" id="chapter-1-5-crimescene.jpg" media-type="image/jpeg"/>
+		<item href="images/chapter-1-5-crimescene.svg" id="chapter-1-5-crimescene.svg" media-type="image/svg+xml"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
@@ -88,7 +90,7 @@
 		<item href="text/chapter-1-2.xhtml" id="chapter-1-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1-3.xhtml" id="chapter-1-3.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1-4.xhtml" id="chapter-1-4.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-1-5.xhtml" id="chapter-1-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-1-5.xhtml" id="chapter-1-5.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/chapter-1-6.xhtml" id="chapter-1-6.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1-7.xhtml" id="chapter-1-7.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1-8.xhtml" id="chapter-1-8.xhtml" media-type="application/xhtml+xml"/>
