@@ -80,7 +80,7 @@
 		<dc:contributor id="producer-2">B. Timothy Keith</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Keith, B. Timothy</meta>
 		<meta property="se:url.homepage" refines="#producer-2">http://astart.ca/</meta>
-		<meta property="role" refines="#producer-2" scheme="marc:relators">ctb</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
 		<dc:contributor id="producer-3">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-3">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-3">https://alexcabal.com</meta>
