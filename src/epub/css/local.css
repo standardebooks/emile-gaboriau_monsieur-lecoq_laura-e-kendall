@@ -30,8 +30,9 @@ figure img{
 }
 
 figcaption{
-	font-style: italic;
 	font-size: .75em;
+	font-style: italic;
+	margin: 1em;
 }
 
 span[epub|type~="subtitle"]{
