@@ -1,16 +1,12 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-blockquote.song{
+blockquote[epub|type~="z3998:song"]{
 	font-style: italic;
 	text-align: center;
 }
 
-blockquote.song p{
-	text-indent: 0;
-}
-
-blockquote.song p:first-child{
+blockquote[epub|type~="z3998:song"] p:first-child{
 	text-indent: 8em;
 }
 
