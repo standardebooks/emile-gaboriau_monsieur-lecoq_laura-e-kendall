@@ -31,11 +31,6 @@ figcaption{
 	margin: 1em;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 [epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
