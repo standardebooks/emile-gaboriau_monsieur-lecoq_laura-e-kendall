@@ -52,7 +52,7 @@
 		<dc:source>https://books.google.com/books?id=d176NoAvTocC</dc:source>
 		<dc:source>https://books.google.com/books?id=LqYPAAAAYAAJ</dc:source>
 		<meta property="se:word-count">252054</meta>
-		<meta property="se:reading-ease.flesch">72.56</meta>
+		<meta property="se:reading-ease.flesch">72.46</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/emile-gaboriau_monsieur-lecoq_laura-e-kendall</meta>
 		<dc:creator id="author">Émile Gaboriau</dc:creator>
 		<meta property="file-as" refines="#author">Gaboriau, Émile</meta>
