@@ -12,7 +12,7 @@ blockquote[epub|type~="z3998:song"] p:first-child{
 
 figure{
 	break-inside: avoid;
-	margin: 1em auto;
+	margin: 1em 40px;
 	text-align: center;
 }
 
