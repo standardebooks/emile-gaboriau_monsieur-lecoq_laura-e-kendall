@@ -41,6 +41,8 @@
 		<meta id="collection-1" property="belongs-to-collection">Monsieur Lecoq</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">5</meta>
+		<meta id="collection-2" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">Monsieur Lecoq’s first case in which he tries to determine the identity of a man in custody for three murders.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The last &lt;a href="https://standardebooks.org/collections/monsieur-lecoq"&gt;Lecoq&lt;/a&gt; novel goes back to the beginning, to Monsieur Lecoq’s first case, the case that began his reputation as a master of detection, master of disguise, and master of detail. The case begins simply: Lecoq and several other policemen come upon a crime as it’s being committed. Three men are dead and the killer is in custody. But who is he? Lecoq and his companion officer spend months trying to figure it out, to no avail. Lecoq finally goes to visit his old mentor in order to gain some insight.&lt;/p&gt;
