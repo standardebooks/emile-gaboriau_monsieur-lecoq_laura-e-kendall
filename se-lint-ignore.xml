@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="epilogue.xhtml">
 		<ignore code="t-043">
+			<line>68</line>
 			<reason>Matched text remains in italics for the French meaning.</reason>
 		</ignore>
 	</file>
