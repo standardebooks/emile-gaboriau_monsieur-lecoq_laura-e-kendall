@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/emile-gaboriau/monsieur-lecoq/laura-e-kendall</dc:identifier>
 		<dc:date>2019-07-23T18:43:00Z</dc:date>
@@ -44,12 +44,12 @@
 		<meta property="group-position" refines="#collection-1">5</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:description id="description">Monsieur Lecoq’s first case in which he tries to determine the identity of a man in custody for three murders.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Monsieur Lecoq’s first case in which he tries to determine the identity of a man in custody for three murders.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The last &lt;a href="https://standardebooks.org/collections/monsieur-lecoq"&gt;Lecoq&lt;/a&gt; novel goes back to the beginning, to Monsieur Lecoq’s first case, the case that began his reputation as a master of detection, master of disguise, and master of detail. The case begins simply: Lecoq and several other policemen come upon a crime as it’s being committed. Three men are dead and the killer is in custody. But who is he? Lecoq and his companion officer spend months trying to figure it out, to no avail. Lecoq finally goes to visit his old mentor in order to gain some insight.&lt;/p&gt;
 			&lt;p&gt;The scene then changes to some fifty years previous; in the aftermath of Waterloo, some noblemen return from exile. One of them insults the character of a local who has acted honorably on the nobleman’s behalf, and the remainder of the novel is devoted to how those few minutes end up unravelling the lives of everyone present, and many who aren’t.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/emile-gaboriau"&gt;Gaboriau&lt;/a&gt; again demonstrates his ability to mix detective mystery and Dickensian drama, and foreshadows the style of the first two novels of his more famous English cousin in detection.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<!-- TRANSCRIPTIONS -->
 		<!-- Monsieur Lecoq (The Inquiry) -->
